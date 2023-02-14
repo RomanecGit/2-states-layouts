@@ -17,7 +17,7 @@ html {
 }
 
 .switch{
-  text-align: right;
+  /*text-align: right;*/
   cursor: pointer;
 }
 
